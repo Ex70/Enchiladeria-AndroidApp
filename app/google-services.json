@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "196368985365",
+    "firebase_url": "https://enchiladeria-95d9a.firebaseio.com",
+    "project_id": "enchiladeria-95d9a",
+    "storage_bucket": "enchiladeria-95d9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196368985365:android:adb7c2f58315ed71f10d1c",
+        "android_client_info": {
+          "package_name": "com.example.androidenchiladeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196368985365-bar8394tnhn1bnpmu1677ri8hjksvjts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidenchiladeria",
+            "certificate_hash": "6da1cd9af97512840d8d859299e7124dd435c98b"
+          }
+        },
+        {
+          "client_id": "196368985365-7tpaun6j8judtagsd5csqeoic0sj69cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuc7e122NS2JEPNdNg54OpMIpPcnNwI4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196368985365-7tpaun6j8judtagsd5csqeoic0sj69cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidEnchiladeria</string>
+
+    <string name="FACEBOOK_APP_ID">1334971636709993</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">[ACCOUNT_KIT_CLIENT_TOKEN]</string>
+
+</resources>
